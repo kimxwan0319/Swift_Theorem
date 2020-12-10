@@ -40,6 +40,10 @@
    * 옵셔널 타입 선언과 정의
    * 옵셔널 값 처리
 
+7. [클로저](https://github.com/kimxwan0319/Swift_Theorem/blob/master/07.%20클로저.md)
+
+   * 
+
    
 
 <hr>
