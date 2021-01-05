@@ -5,7 +5,6 @@
    * 콘솔 로그
    * 변수와 상수
    * 데이터 타입 기본
-
 2. [연산자](https://github.com/kimxwan0319/Swift_Theorem/blob/master/02.%20연산자.md "Go Chapter2")
 
    * 할당 연산자
@@ -15,38 +14,34 @@
    * 범위 연산자
    * 부울 연산자
    * 복합 할당 연산자
-
 3. [흐름제어](https://github.com/kimxwan0319/Swift_Theorem/blob/master/03.%20흐름%20제어.md "Go Chapter3")
 
    * 조건문
    * 반복문
-
 4. [데이터 타입 고급](https://github.com/kimxwan0319/Swift_Theorem/blob/master/04.%20데이터%20타입%20고급.md "Go Chapter4")
 
    * 컬렉션형
    * 튜플
    * 열거형
-
 5. [함수](https://github.com/kimxwan0319/Swift_Theorem/blob/master/05.%20함수.md "Go Chapter5")
 
    * 함수의 정의와 호출
    * 함수 파라미터와 반환값
    * 함수형
    * 중첩함수
-
 6. [옵셔널](https://github.com/kimxwan0319/Swift_Theorem/blob/master/06.%20옵셔널.md "Go Chapter6")
 
    * nil
    * 옵셔널 타입 선언과 정의
    * 옵셔널 값 처리
-
 7. [클로저](https://github.com/kimxwan0319/Swift_Theorem/blob/master/07.%20클로저.md)
 
    * 클로저 표현
-* 후위 클로저
+   * 후위 클로저
    * @escaping과 @autoclosure
-   
-   
+
+8. [구조체와 클래스](https://github.com/kimxwan0319/Swift_Theorem/blob/master/08.%20구조체와%20클래스.md)
+   * 
 
 <hr>
 
